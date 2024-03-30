@@ -1,7 +1,7 @@
 <p align="center">Hello, I am a systems developer analyst passionate about solving complex problems through technology. I like to balance my career between technical and behavioral skills, interacting calmly and efficiently with my co-workers, and continually learning new technologies, integrating all of this with the fundamentals of agile development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=natanneves&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://natan-neves-natan-neves-projects.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
  </div>
  
